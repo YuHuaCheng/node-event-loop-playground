@@ -1,2 +1,2 @@
-# node-event-loop-playground
-toy example to understand node event loop better
+# node-playground
+Some node play-around projects
